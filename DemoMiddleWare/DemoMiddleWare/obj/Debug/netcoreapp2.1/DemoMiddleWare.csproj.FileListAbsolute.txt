@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\bin\Debug\netcoreapp2.1\DemoMiddleWare.deps.json
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\bin\Debug\netcoreapp2.1\DemoMiddleWare.runtimeconfig.json
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\bin\Debug\netcoreapp2.1\DemoMiddleWare.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\bin\Debug\netcoreapp2.1\DemoMiddleWare.dll
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\bin\Debug\netcoreapp2.1\DemoMiddleWare.pdb
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.RazorAssemblyInfo.cache
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.RazorAssemblyInfo.cs
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.AssemblyInfo.cs
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.dll
+C:\Users\Student\source\repos\Aula20190323\DemoMiddleWare\DemoMiddleWare\obj\Debug\netcoreapp2.1\DemoMiddleWare.pdb
