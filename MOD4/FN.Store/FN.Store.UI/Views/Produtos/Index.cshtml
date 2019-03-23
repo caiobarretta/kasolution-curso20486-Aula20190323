@@ -1,0 +1,26 @@
+﻿<h2>Listagem de Produtos</h2>
+
+<div>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Preço</th>
+				<th>Tipo</th>
+				<th>Cadastro</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (FN.Store.UI.Models.Produto produto in Model)
+			{
+				<tr>
+					<th>@produto.Nome</th>
+					<th>@produto.Preco</th>
+					<th>@produto.Tipo</th>
+					<th>@produto.DataCadastro</th>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+
